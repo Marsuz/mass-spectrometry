@@ -1,0 +1,2 @@
+Ajoutez vos données ici 
+chaque sous-dossier doit contenir 1 et 1 seul plasma ON et plasma OFF si ce n'est pas le cas, créez autant de sous-dossiers que nécessaire.
